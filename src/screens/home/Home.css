@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.up-heading{
+   margin-bottom: 0;
+   padding-bottom: 0;
+}
+.up-heading p{
+    background-color: #ff9999;
+    padding: 8px;
+    font-size: 1 rem;
+    text-align: center;
+}
+
+.released{
+    height: 600px;
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: row;
+}
+.left-div{
+    width: 76%;
+    /* background-color: red; */
+    margin: 16px;
+}
+.right-div{
+    width: 24%;
+    /* background-color: blue; */
+    margin: 16px;
+}

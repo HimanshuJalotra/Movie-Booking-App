@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    height: 660px;
+}
+.left{
+    width: 20%;
+    /* background-color: aqua; */
+}
+.left .img-part{
+    /* border: 2px solid red; */
+    width: 90%;
+    height: 60%;
+    margin: auto;
+}
+.mid{
+    width: 60%;
+    /* background-color: bisque; */
+}
+.right{
+    width: 20%;
+    /* background-color: blueviolet; */
+}
